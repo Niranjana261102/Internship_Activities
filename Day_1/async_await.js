@@ -1,9 +1,5 @@
 function fetchData() {
-    return new Promise(resolve => {
-        setTimeout(() => {
-            resolve("Data Received");
-        }, 2000);
-    });
+    return new Promise.resolve("Hello World");
 }
 
 async function getData() {
