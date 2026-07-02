@@ -1,5 +1,5 @@
 function fetchData() {
-    return new Promise.resolve("Hello World");
+    return Promise.resolve("Hello World");
 }
 
 async function getData() {
