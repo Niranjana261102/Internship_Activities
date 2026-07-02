@@ -9,7 +9,7 @@ const SYMBOLS = '!@#$%^&*()_+-=[]{}|;:,.<>?';
 
 
 const parseArgs = (argv) => {
-  const args = argv.slice(2);
+  let args = argv.slice(2);
   let length = 16;
   let useUppercase = true;
   let useNumbers = true;
