@@ -9,4 +9,4 @@
 
 ## Functionality
 
-  . No functional changes were made. The program password generation exactly like the original version.
+ No functional changes were made. The program password generation exactly like the original version.
