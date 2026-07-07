@@ -6,12 +6,6 @@ QA Bot - Shared API Contract
 
 ---
 
-## Purpose
-
-This document defines the API structure that will be shared between the TypeScript backend and the React Native frontend. Both applications should follow this contract to ensure they communicate correctly.
-
----
-
 # Base URL
 
 ```text
